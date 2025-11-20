@@ -33,11 +33,8 @@ for i in range(1,n+1):
 ### OUTPUT
 ![Screenshot 2025-04-30 155055](https://github.com/user-attachments/assets/0c5ce9e7-2d09-40fc-89ba-6204024ce306)
 
-```
 
-```
+
 ### RESULT
 Hence using for loop n natural numbers are printed
-```
 
-```
